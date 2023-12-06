@@ -1,2 +1,3 @@
 react
 vite
+react bootstrap
